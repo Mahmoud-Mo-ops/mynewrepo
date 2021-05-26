@@ -5,8 +5,7 @@
 
 function funestFunction() {
 	// child scope
-	console.log( fun);
-}
+	console.log( fun=}
 funestFunction();
 
 
